@@ -20,7 +20,7 @@
 
 ---
 
- 💞️ I’m looking to collaborate on:
+ 💞️ I’m looking to collaborate on: 
  
 #Full-stack projects. 
 #Open source tools for education or community .  
